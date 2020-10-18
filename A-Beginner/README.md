@@ -16,7 +16,7 @@
 
 8. Skapa ett objekt som representerar dig själv och som innehåller properties `firstName`, `lastName` och `age`
 
-9. Skriv ett uttryck
+9. skriv ett utryck 
 
 10. Konkatenera tre strängar
 
